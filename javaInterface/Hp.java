@@ -31,7 +31,7 @@ public class Hp implements Laptop {
 		
 	}
 	
-//	@Override
+	// @Override
 	static void pattern() {
 		System.out.println("Hp Pattern");
 	}
