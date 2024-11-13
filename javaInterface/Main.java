@@ -12,7 +12,7 @@ public class Main {
 		hp.powerOn();
 		hp.powerOn();
 		hp.webCam();
-		hp.pattern();
+		// hp.pattern(); no error
 		
 		System.out.println();
 	
